@@ -1,0 +1,17 @@
+.tab-items-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.tab-items-container {
+  width: 100%;
+  overflow-x: auto;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20%;
+}
